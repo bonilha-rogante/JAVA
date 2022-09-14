@@ -1,9 +1,7 @@
 package application;
 
 import java.util.Scanner;
-
 import utility.Calculator;
-
 import java.util.Locale;
 
 public class Versao02 {
